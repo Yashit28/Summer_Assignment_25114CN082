@@ -1,4 +1,4 @@
-//Q3 = Write a program to Print prime numbers in a range
+//Q2 = Write a program to Print prime numbers in a range
 
 import java.util.Scanner;
 public class Q2 {
